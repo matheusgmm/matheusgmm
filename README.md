@@ -3,7 +3,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-muccio-91a1a2269/)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusgmm&show_icons=true&theme=radical)
+<div>
+    <a href="https://github.com/matheusgmm">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusgmm&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgmm&layout=compact&langs_count=16&theme=radical">
+
+<div/>
 
 ## Tecnologias que eu uso no meu dia 
 
